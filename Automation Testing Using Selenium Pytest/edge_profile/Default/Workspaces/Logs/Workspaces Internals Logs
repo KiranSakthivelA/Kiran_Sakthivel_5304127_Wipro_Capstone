@@ -1,0 +1,168 @@
+{"logTime": "0520/121523", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:15:23.168Z"}}
+{"logTime": "0520/121523", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:15:23.169Z"}}
+{"logTime": "0520/121523", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:15:23.169Z"}}
+{"logTime": "0520/121523", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:15:23.169Z"}}
+{"logTime": "0520/121523", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:15:23.169Z"}}
+{"logTime": "0520/121741", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:17:41.230Z"}}
+{"logTime": "0520/121806", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:18:06.745Z"}}
+{"logTime": "0520/121806", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:18:06.745Z"}}
+{"logTime": "0520/121806", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:18:06.745Z"}}
+{"logTime": "0520/121806", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:18:06.745Z"}}
+{"logTime": "0520/121806", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:18:06.745Z"}}
+{"logTime": "0520/121952", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:19:52.177Z"}}
+{"logTime": "0520/121952", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:19:52.178Z"}}
+{"logTime": "0520/121952", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:19:52.178Z"}}
+{"logTime": "0520/121952", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:19:52.178Z"}}
+{"logTime": "0520/121952", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:19:52.178Z"}}
+{"logTime": "0520/122115", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:21:15.463Z"}}
+{"logTime": "0520/122238", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:22:38.499Z"}}
+{"logTime": "0520/122238", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:22:38.499Z"}}
+{"logTime": "0520/122238", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:22:38.499Z"}}
+{"logTime": "0520/122238", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:22:38.500Z"}}
+{"logTime": "0520/122238", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:22:38.500Z"}}
+{"logTime": "0520/122342", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:23:42.193Z"}}
+{"logTime": "0520/124252", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:42:52.758Z"}}
+{"logTime": "0520/124252", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:42:52.758Z"}}
+{"logTime": "0520/124252", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:42:52.758Z"}}
+{"logTime": "0520/124252", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:42:52.758Z"}}
+{"logTime": "0520/124252", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:42:52.758Z"}}
+{"logTime": "0520/124546", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:45:46.846Z"}}
+{"logTime": "0520/124612", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:46:12.200Z"}}
+{"logTime": "0520/124612", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:46:12.200Z"}}
+{"logTime": "0520/124612", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:46:12.201Z"}}
+{"logTime": "0520/124612", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:46:12.201Z"}}
+{"logTime": "0520/124612", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:46:12.201Z"}}
+{"logTime": "0520/124640", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:46:40.022Z"}}
+{"logTime": "0520/124655", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:46:55.750Z"}}
+{"logTime": "0520/124655", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T12:46:55.750Z"}}
+{"logTime": "0520/124655", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T12:46:55.750Z"}}
+{"logTime": "0520/124655", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T12:46:55.750Z"}}
+{"logTime": "0520/124655", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T12:46:55.751Z"}}
+{"logTime": "0520/124724", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T12:47:24.144Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.542Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.543Z"}}
+{"logTime": "0520/165303", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:53:03.551Z"}}
+{"logTime": "0520/165317", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:17.654Z"}}
+{"logTime": "0520/165317", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:17.656Z"}}
+{"logTime": "0520/165317", {"extraInfo":{"Date":"0","ErrorCode":404,"PrimaryError":17,"SPRequestGuid":"af8715a2-2084-7000-5528-af5173a6f658","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:53:17.656Z"}}
+{"logTime": "0520/165337", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:37.871Z"}}
+{"logTime": "0520/165337", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:37.872Z"}}
+{"logTime": "0520/165337", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"b78715a2-f02d-0000-be25-d0a8511d1011","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:53:37.872Z"}}
+{"logTime": "0520/165342", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:42.528Z"}}
+{"logTime": "0520/165342", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:42.531Z"}}
+{"logTime": "0520/165342", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"b88715a2-b06b-0000-be25-d8815aa466ca","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:53:42.532Z"}}
+{"logTime": "0520/165349", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:49.896Z"}}
+{"logTime": "0520/165349", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:53:49.899Z"}}
+{"logTime": "0520/165349", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"ba8715a2-904e-0000-be25-d47431685afd","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:53:49.899Z"}}
+{"logTime": "0520/165400", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:54:00.087Z"}}
+{"logTime": "0520/165400", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:54:00.089Z"}}
+{"logTime": "0520/165400", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"bc8715a2-20ca-0000-be25-d14cf74d01d4","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:54:00.089Z"}}
+{"logTime": "0520/165416", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:54:16.738Z"}}
+{"logTime": "0520/165416", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:54:16.740Z"}}
+{"logTime": "0520/165416", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"c08715a2-b086-0000-b705-a21aadac539b","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:54:16.740Z"}}
+{"logTime": "0520/165418", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:54:18.959Z"}}
+{"logTime": "0520/165418", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:54:18.960Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.284Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.285Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.285Z"}}
+{"logTime": "0520/165524", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:55:24.293Z"}}
+{"logTime": "0520/165529", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:55:29.233Z"}}
+{"logTime": "0520/165529", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:55:29.235Z"}}
+{"logTime": "0520/165529", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"d28715a2-d05b-9000-1f52-d350b6573ed6","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:55:29.235Z"}}
+{"logTime": "0520/165702", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:57:02.771Z"}}
+{"logTime": "0520/165702", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:57:02.771Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.245Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.245Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.245Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.245Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.246Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.246Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.246Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.246Z"}}
+{"logTime": "0520/165825", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:58:25.253Z"}}
+{"logTime": "0520/165827", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:58:27.875Z"}}
+{"logTime": "0520/165827", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:58:27.877Z"}}
+{"logTime": "0520/165827", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"fd8715a2-40f6-d000-2445-69995a2a683e","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:58:27.877Z"}}
+{"logTime": "0520/165852", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:58:52.886Z"}}
+{"logTime": "0520/165852", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:58:52.886Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.916Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.917Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.917Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.917Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.917Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.918Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.918Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.918Z"}}
+{"logTime": "0520/165955", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T16:59:55.925Z"}}
+{"logTime": "0520/165958", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:59:58.034Z"}}
+{"logTime": "0520/165958", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T16:59:58.036Z"}}
+{"logTime": "0520/165958", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"148815a2-c003-1000-be29-becb56392696","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T16:59:58.036Z"}}
+{"logTime": "0520/170241", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:02:41.354Z"}}
+{"logTime": "0520/170241", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:02:41.355Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.598Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.599Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.599Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.599Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.600Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.600Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.600Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.600Z"}}
+{"logTime": "0520/170258", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:02:58.614Z"}}
+{"logTime": "0520/170300", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:00.537Z"}}
+{"logTime": "0520/170300", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:00.540Z"}}
+{"logTime": "0520/170300", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"408815a2-00ae-7000-817e-7771930140b2","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T17:03:00.540Z"}}
+{"logTime": "0520/170306", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:06.566Z"}}
+{"logTime": "0520/170306", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:06.567Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.618Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.618Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.618Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.618Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.619Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.619Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.619Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.620Z"}}
+{"logTime": "0520/170315", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:15.636Z"}}
+{"logTime": "0520/170320", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:20.919Z"}}
+{"logTime": "0520/170320", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:20.923Z"}}
+{"logTime": "0520/170320", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"458815a2-e061-7000-a174-e48ae8eaf209","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T17:03:20.923Z"}}
+{"logTime": "0520/170323", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:23.480Z"}}
+{"logTime": "0520/170323", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:23.481Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.614Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.615Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.615Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.615Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.616Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.616Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.617Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.617Z"}}
+{"logTime": "0520/170333", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:03:33.636Z"}}
+{"logTime": "0520/170339", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:39.216Z"}}
+{"logTime": "0520/170339", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:03:39.220Z"}}
+{"logTime": "0520/170339", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"4a8815a2-000a-d000-0377-3cd3231e822c","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T17:03:39.221Z"}}
+{"logTime": "0520/170412", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:04:12.806Z"}}
+{"logTime": "0520/170412", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:04:12.808Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.524Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Migrate_FeatureCheck: Migrate_FeatureCheck","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.524Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Migrate_MaybeHavePrefs: Migrate_MaybeHavePrefs","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.525Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Migrate_Schedule: Migrate_Schedule","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.525Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_WaitForNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.525Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Log: Migrate_MaybeAfterWorkspacesNotInUse","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.526Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"Log: Starting fluid...","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.526Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"ScopedFluidManagerLifetime: Starting Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.526Z"}}
+{"logTime": "0520/170425", {"lineNo":0,"logLevel":2,"message":"MaybeOrchestrateMigration: ~MaybeOrchestrateMigration","source":"Workspace Migration","timestamp":"2026-05-20T17:04:25.542Z"}}
+{"logTime": "0520/170429", {"lineNo":0,"logLevel":4,"message":"WorkspaceManager: Failed to connect to fluid user prefs Error code:46 tag:11","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:04:29.328Z"}}
+{"logTime": "0520/170429", {"extraInfo":"Failed to connect to fluid user prefs","lineNo":0,"logLevel":4,"message":"Fluid Manager Process Failed","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:04:29.330Z"}}
+{"logTime": "0520/170429", {"extraInfo":{"Date":"0","ErrorCode":409,"PrimaryError":17,"SPRequestGuid":"568815a2-d030-d000-2b40-2c89163ec227","SecondaryError":36},"lineNo":0,"logLevel":4,"message":"EdgeFluidCSPStorageHelper failed at CreateContainerCall","source":"Token Fetcher","timestamp":"2026-05-20T17:04:29.331Z"}}
+{"logTime": "0520/170519", {"lineNo":0,"logLevel":2,"message":"~ScopedFluidManagerLifetime: Closing Fluid Manager for Migration","source":"Workspace Migration","timestamp":"2026-05-20T17:05:19.895Z"}}
+{"logTime": "0520/170519", {"lineNo":0,"logLevel":2,"message":"WorkspaceManager: count of workspaces on close: 0","source":"Fluid Local Collaborator","timestamp":"2026-05-20T17:05:19.895Z"}}

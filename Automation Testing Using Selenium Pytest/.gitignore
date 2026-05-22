@@ -12,15 +12,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Pytest / Allure
-.pytest_cache/
-reports/
-reports/allure-results/
-reports/screenshots/
-logs/
-
 # Miscellaneous
 .vscode/
 .idea/
 *.swp
-*.log

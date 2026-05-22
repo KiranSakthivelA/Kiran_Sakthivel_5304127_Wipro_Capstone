@@ -1,0 +1,33 @@
+2026-05-23 00:24:04,222: INFO: Executing step: Verify page loaded successfully
+2026-05-23 00:24:04,236: INFO: Executing step: Execution Logs
+2026-05-23 00:24:04,248: INFO: Executing step: Navigate to Popular Health Checkups
+2026-05-23 00:24:06,106: INFO: Executing step: Apply 'Women's Health' filter
+2026-05-23 00:24:06,107: INFO: Applying filter: Women's Health
+2026-05-23 00:24:06,681: WARNING: Filter click failed for 'Women's Health': Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=148.0.3967.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff64e97e295+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff64e97e2f4+e154]
+	msedgedriver!GetHandleVerifier [0x7ff64ecf8bca+388a2a]
+	msedgedriver!(No symbol) [0x7ff64e6b0d93]
+	msedgedriver!(No symbol) [0x7ff64e6b31d5]
+	msedgedriver!(No symbol) [0x7ff64e6b329f]
+	msedgedriver!(No symbol) [0x7ff64e6efd0c]
+	msedgedriver!(No symbol) [0x7ff64e7141ba]
+	msedgedriver!(No symbol) [0x7ff64e6eaaa7]
+	msedgedriver!(No symbol) [0x7ff64e6ea9ad]
+	msedgedriver!(No symbol) [0x7ff64e6eaaa7]
+	msedgedriver!(No symbol) [0x7ff64e72f0b2]
+	msedgedriver!(No symbol) [0x7ff64e6ea2ec]
+	msedgedriver!(No symbol) [0x7ff64e6e9546]
+	msedgedriver!(No symbol) [0x7ff64e6ea113]
+	msedgedriver!(No symbol) [0x7ff64e7b2519]
+	msedgedriver!(No symbol) [0x7ff64e7aec93]
+	msedgedriver!(No symbol) [0x7ff64e7bf182]
+	msedgedriver!GetHandleVerifier [0x7ff64e99aa68+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff64e9a32f6+33156]
+	msedgedriver!GetHandleVerifier [0x7ff64e985724+15584]
+	msedgedriver!GetHandleVerifier [0x7ff64e985845+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff64e972b63+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]

@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","12303","TC_POS_01: Successfully Navigate to Lab Tests Page","tests","2026-05-22","passed","2026-05-22","TestSimpleCases","test_test_case","",""
