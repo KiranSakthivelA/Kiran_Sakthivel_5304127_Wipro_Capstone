@@ -1,0 +1,9 @@
+2026/05/20-17:42:26.706 17c0 Reusing MANIFEST D:\Wipro_Capstone_Project\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-17:42:26.711 17c0 Recovering log #112
+2026/05/20-17:42:26.712 17c0 Level-0 table #115: started
+2026/05/20-17:42:26.716 17c0 Level-0 table #115: 42494 bytes OK
+2026/05/20-17:42:26.716 17c0 Recovering log #114
+2026/05/20-17:42:26.717 17c0 Level-0 table #116: started
+2026/05/20-17:42:26.719 17c0 Level-0 table #116: 32048 bytes OK
+2026/05/20-17:42:26.722 17c0 Delete type=0 #112
+2026/05/20-17:42:26.722 17c0 Delete type=0 #114

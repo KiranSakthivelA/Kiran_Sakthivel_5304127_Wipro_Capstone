@@ -1,0 +1,21 @@
+2026/05/20-17:32:45.511 19d0 Reusing MANIFEST D:\Wipro_Capstone_Project\chrome_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-17:32:45.515 19d0 Recovering log #108
+2026/05/20-17:32:45.517 19d0 Level-0 table #110: started
+2026/05/20-17:32:45.520 19d0 Level-0 table #110: 32241 bytes OK
+2026/05/20-17:32:45.520 19d0 Recovering log #109
+2026/05/20-17:32:45.521 19d0 Level-0 table #111: started
+2026/05/20-17:32:45.525 19d0 Level-0 table #111: 31997 bytes OK
+2026/05/20-17:32:45.527 19d0 Delete type=0 #108
+2026/05/20-17:32:45.527 19d0 Delete type=0 #109
+2026/05/20-17:32:45.528 6330 Compacting 5@0 + 1@1 files
+2026/05/20-17:32:45.535 6330 Generated table #113@0: 51 keys, 61017 bytes
+2026/05/20-17:32:45.536 6330 Compacted 5@0 + 1@1 files => 61017 bytes
+2026/05/20-17:32:45.536 6330 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/05/20-17:32:45.537 6330 Delete type=2 #101
+2026/05/20-17:32:45.537 6330 Delete type=2 #103
+2026/05/20-17:32:45.537 6330 Delete type=2 #105
+2026/05/20-17:32:45.537 6330 Delete type=2 #107
+2026/05/20-17:32:45.537 6330 Delete type=2 #110
+2026/05/20-17:32:45.537 6330 Delete type=2 #111
+2026/05/20-17:33:02.662 6330 Level-0 table #115: started
+2026/05/20-17:33:02.666 6330 Level-0 table #115: 42494 bytes OK

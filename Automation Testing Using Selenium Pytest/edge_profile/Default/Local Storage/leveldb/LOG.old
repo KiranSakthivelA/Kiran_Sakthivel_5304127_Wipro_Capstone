@@ -1,0 +1,12 @@
+2026/05/20-22:33:26.464 5bc0 Reusing MANIFEST D:\Wipro_Capstone_Project\edge_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-22:33:26.471 5bc0 Recovering log #39
+2026/05/20-22:33:26.473 5bc0 Level-0 table #42: started
+2026/05/20-22:33:26.476 5bc0 Level-0 table #42: 56011 bytes OK
+2026/05/20-22:33:26.477 5bc0 Recovering log #42
+2026/05/20-22:33:26.478 5bc0 Reusing old log D:\Wipro_Capstone_Project\edge_profile\Default\Local Storage\leveldb/000042.log 
+2026/05/20-22:33:26.479 5bc0 Delete type=0 #39
+2026/05/20-22:34:12.817 6754 Level-0 table #44: started
+2026/05/20-22:34:12.826 6754 Level-0 table #44: 55979 bytes OK
+2026/05/20-22:34:12.830 6754 Delete type=0 #42
+2026/05/20-22:34:12.860 5bc0 Level-0 table #46: started
+2026/05/20-22:34:12.866 5bc0 Level-0 table #46: 48583 bytes OK

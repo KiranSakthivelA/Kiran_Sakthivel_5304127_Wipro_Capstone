@@ -1,0 +1,6 @@
+TC_ID,Scenario,Data_Value
+TC_POS_03,Apply Filter,Top Deals
+TC_POS_04,Add To Cart,Apollo Full Body Checkup
+TC_NEG_02,Special Char Search,!@#$%^&*()
+TC_NEG_03,Invalid Search,XYZ123NonExistentTest
+TC_NEG_04,No Patient Selected,Apollo Full Body Checkup

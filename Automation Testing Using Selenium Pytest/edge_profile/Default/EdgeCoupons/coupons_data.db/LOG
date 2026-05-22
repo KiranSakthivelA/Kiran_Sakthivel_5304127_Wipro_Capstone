@@ -1,0 +1,6 @@
+2026/05/20-22:34:25.778 1990 Reusing MANIFEST D:\Wipro_Capstone_Project\edge_profile\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/20-22:34:25.779 1990 Recovering log #45
+2026/05/20-22:34:25.779 1990 Reusing old log D:\Wipro_Capstone_Project\edge_profile\Default\EdgeCoupons/coupons_data.db/000045.log 
+2026/05/20-22:34:29.817 2964 Level-0 table #50: started
+2026/05/20-22:34:29.820 2964 Level-0 table #50: 682628 bytes OK
+2026/05/20-22:34:29.821 2964 Delete type=0 #45

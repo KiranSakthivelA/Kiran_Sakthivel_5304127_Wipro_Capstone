@@ -1,0 +1,18 @@
+2026/05/20-22:34:16.507 183c Reusing MANIFEST D:\Wipro_Capstone_Project\edge_profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/20-22:34:16.514 183c Recovering log #43
+2026/05/20-22:34:16.515 183c Level-0 table #46: started
+2026/05/20-22:34:16.518 183c Level-0 table #46: 48583 bytes OK
+2026/05/20-22:34:16.519 183c Recovering log #45
+2026/05/20-22:34:16.520 183c Reusing old log D:\Wipro_Capstone_Project\edge_profile\Default\Local Storage\leveldb/000045.log 
+2026/05/20-22:34:16.521 183c Delete type=0 #43
+2026/05/20-22:34:16.522 5e38 Compacting 4@0 + 1@1 files
+2026/05/20-22:34:16.528 5e38 Generated table #47@0: 78 keys, 74169 bytes
+2026/05/20-22:34:16.528 5e38 Compacted 4@0 + 1@1 files => 74169 bytes
+2026/05/20-22:34:16.529 5e38 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/20-22:34:16.529 5e38 Delete type=2 #38
+2026/05/20-22:34:16.529 5e38 Delete type=2 #40
+2026/05/20-22:34:16.529 5e38 Delete type=2 #42
+2026/05/20-22:34:16.529 5e38 Delete type=2 #44
+2026/05/20-22:34:16.529 5e38 Delete type=2 #46
+2026/05/20-22:35:19.914 183c Level-0 table #49: started
+2026/05/20-22:35:19.920 183c Level-0 table #49: 56016 bytes OK
