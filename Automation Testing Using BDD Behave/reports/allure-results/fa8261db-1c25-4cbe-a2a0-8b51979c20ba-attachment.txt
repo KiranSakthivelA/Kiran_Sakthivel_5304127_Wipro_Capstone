@@ -1,0 +1,1 @@
+2026-05-23 10:59:56,200: INFO: Clicking 'Proceed To Cart' on popup

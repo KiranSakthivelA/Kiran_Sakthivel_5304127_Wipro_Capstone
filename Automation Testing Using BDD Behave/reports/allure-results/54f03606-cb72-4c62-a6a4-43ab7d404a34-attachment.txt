@@ -1,0 +1,2 @@
+2026-05-23 10:58:42,944: INFO: Clicking login/sign-in icon immediately via JS
+2026-05-23 10:58:43,481: INFO: Entering mobile number: 7092090892

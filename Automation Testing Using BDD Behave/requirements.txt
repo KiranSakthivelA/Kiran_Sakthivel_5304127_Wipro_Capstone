@@ -1,0 +1,5 @@
+selenium
+behave
+allure-behave
+pandas
+openpyxl

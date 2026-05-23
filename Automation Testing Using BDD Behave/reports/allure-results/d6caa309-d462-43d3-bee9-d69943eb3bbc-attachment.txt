@@ -1,0 +1,2 @@
+2026-05-23 11:02:39,711: INFO: Adding 'Apollo Full Body Checkup' to cart
+2026-05-23 11:02:45,315: INFO: Clicking 'Proceed To Cart' on popup
