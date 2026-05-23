@@ -648,3 +648,63 @@ Stacktrace:
 05/23/2026 11:02:18 AM: INFO: Adding 'Apollo Full Body Checkup' to cart
 05/23/2026 11:02:39 AM: INFO: Adding 'Apollo Full Body Checkup' to cart
 05/23/2026 11:02:45 AM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:58:54 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:58:55 PM: INFO: Entering mobile number: 7092090892
+05/23/2026 06:58:55 PM: INFO: Clicking Continue button
+05/23/2026 06:58:55 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:58:55 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:59:10 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:59:11 PM: INFO: Clicking 'Lab Tests' in header
+05/23/2026 06:59:20 PM: INFO: Waiting for 'View All' on Popular Health Checkups
+05/23/2026 06:59:24 PM: INFO: Successfully clicked 'View All' natively
+05/23/2026 06:59:28 PM: INFO: Applying filter: Top Deals
+05/23/2026 06:59:32 PM: INFO: Clicked filter: Top Deals
+05/23/2026 06:59:36 PM: INFO: Applying filter: Men's Health
+05/23/2026 06:59:40 PM: INFO: Clicked filter: Men's Health
+05/23/2026 06:59:44 PM: INFO: Sorting by Price: Low to High
+05/23/2026 06:59:59 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 07:00:02 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 07:00:11 PM: INFO: Selecting existing patient: Test User
+05/23/2026 07:00:12 PM: INFO: Patient successfully selected via JS!
+05/23/2026 07:00:14 PM: INFO: Clicking 'Select Slot' after patient selection
+05/23/2026 07:00:16 PM: INFO: Selecting address containing '7A'
+05/23/2026 07:00:21 PM: INFO: Selecting schedule: 22 May 2026 - 06:30 AM
+05/23/2026 07:00:29 PM: INFO: Clicking 'Review Cart' / Proceed
+05/23/2026 07:00:42 PM: INFO: Found Review Cart button: Review Cart
+05/23/2026 07:00:49 PM: INFO: Clicking 'Proceed to Pay'
+05/23/2026 07:00:50 PM: INFO: Found Proceed to Pay button: Proceed to Pay - ₹3490.00
+05/23/2026 07:01:21 PM: INFO: Applying filter: Women's Health
+05/23/2026 07:01:22 PM: WARNING: Filter click failed for 'Women's Health': Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=148.0.3967.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff75d63e305+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff75d63e364+e154]
+	msedgedriver!GetHandleVerifier [0x7ff75d9b8c2a+388a1a]
+	msedgedriver!(No symbol) [0x7ff75d370d93]
+	msedgedriver!(No symbol) [0x7ff75d3731d5]
+	msedgedriver!(No symbol) [0x7ff75d37329f]
+	msedgedriver!(No symbol) [0x7ff75d3afd0c]
+	msedgedriver!(No symbol) [0x7ff75d3d41ba]
+	msedgedriver!(No symbol) [0x7ff75d3aaaa7]
+	msedgedriver!(No symbol) [0x7ff75d3aa9ad]
+	msedgedriver!(No symbol) [0x7ff75d3aaaa7]
+	msedgedriver!(No symbol) [0x7ff75d3ef0b2]
+	msedgedriver!(No symbol) [0x7ff75d3aa2ec]
+	msedgedriver!(No symbol) [0x7ff75d3a9546]
+	msedgedriver!(No symbol) [0x7ff75d3aa113]
+	msedgedriver!(No symbol) [0x7ff75d472519]
+	msedgedriver!(No symbol) [0x7ff75d46ec93]
+	msedgedriver!(No symbol) [0x7ff75d47f182]
+	msedgedriver!GetHandleVerifier [0x7ff75d65aad8+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff75d663366+33156]
+	msedgedriver!GetHandleVerifier [0x7ff75d645794+15584]
+	msedgedriver!GetHandleVerifier [0x7ff75d6458b5+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff75d632bd3+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]
+
+05/23/2026 07:02:00 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 07:02:02 PM: INFO: Entering mobile number: 12345
+05/23/2026 07:02:21 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 07:02:39 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 07:02:45 PM: INFO: Clicking 'Proceed To Cart' on popup

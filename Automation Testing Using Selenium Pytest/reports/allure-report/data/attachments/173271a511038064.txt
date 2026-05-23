@@ -1,0 +1,6 @@
+2026-05-23 18:49:33,256: INFO: Executing step: Verify page handles invalid category gracefully
+2026-05-23 18:49:33,260: INFO: Executing step: Execution Logs
+2026-05-23 18:49:33,268: INFO: Executing step: Navigate to Popular Health Checkups
+2026-05-23 18:49:40,152: INFO: Executing step: Add 'Apollo Full Body Checkup' to cart
+2026-05-23 18:49:40,153: INFO: Adding 'Apollo Full Body Checkup' to cart
+2026-05-23 18:49:45,693: INFO: Executing step: Close Cart Popup and attempt to add same package again

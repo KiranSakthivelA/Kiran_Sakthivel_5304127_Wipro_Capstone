@@ -1,0 +1,6 @@
+2026-05-23 18:49:14,546: INFO: Executing step: Verify Product Description Page (PDP) loaded
+2026-05-23 18:49:14,551: INFO: Executing step: Execution Logs
+2026-05-23 18:49:14,561: INFO: Executing step: Navigate to Homepage and open Login
+2026-05-23 18:49:22,791: INFO: Clicking login/sign-in icon immediately via JS
+2026-05-23 18:49:24,824: INFO: Executing step: Enter invalid mobile number (e.g. 12345)
+2026-05-23 18:49:24,825: INFO: Entering mobile number: 12345

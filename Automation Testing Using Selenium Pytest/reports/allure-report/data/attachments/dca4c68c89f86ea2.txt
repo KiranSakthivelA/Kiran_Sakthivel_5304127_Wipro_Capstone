@@ -1,0 +1,7 @@
+2026-05-23 18:49:48,977: INFO: Executing step: Verify button changed to 'Go To Cart' or 'Added'
+2026-05-23 18:49:48,977: INFO: Executing step: Execution Logs
+2026-05-23 18:49:48,987: INFO: Executing step: Navigate to Popular Health Checkups and add package
+2026-05-23 18:49:51,208: INFO: Adding 'Apollo Full Body Checkup' to cart
+2026-05-23 18:49:54,742: INFO: Clicking 'Proceed To Cart' on popup
+2026-05-23 18:50:03,081: INFO: Executing step: Ensure no patients are selected
+2026-05-23 18:50:03,125: INFO: Executing step: Attempt to click Proceed/Select Slot

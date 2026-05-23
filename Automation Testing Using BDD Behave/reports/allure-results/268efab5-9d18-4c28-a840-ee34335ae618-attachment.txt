@@ -1,0 +1,2 @@
+2026-05-23 18:59:20,806: INFO: Waiting for 'View All' on Popular Health Checkups
+2026-05-23 18:59:24,624: INFO: Successfully clicked 'View All' natively

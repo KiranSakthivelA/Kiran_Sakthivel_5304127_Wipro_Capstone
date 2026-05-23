@@ -2,7 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5bec09a-41dc-4aed-98a9-0c071e32bed5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Automation Testing Using Selenium Pytest/Automation Testing Using Selenium Pytest/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using Selenium Pytest/Automation Testing Using Selenium Pytest/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Wipro_Capstone_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Wipro_Capstone_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/006cb5d6-5c92-4e41-a930-fc5b1d463fd7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/040c0215-2c46-49ce-b312-207f2037050c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/048b19cc-55e3-4209-868e-b6464cc4b3bb-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/065a311e-07f7-4ee6-b2bc-a25066051a36-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/0867b778-a4a0-44cc-b011-c6af57cd0a22-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/1ac6ecba-2982-4c85-a393-80eadec753c0-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/1d901b95-869d-4ca9-b7c2-9ba20defd538-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/21f71fe7-447d-4fa5-bc80-c35c1735944e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/246a2eaf-830d-4f58-a58b-62949f579d39-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/2fde06e2-73a4-4316-bfde-cf229d6408eb-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/365f860e-5151-4f29-af8e-3712e5a94581-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/398cc2ac-d023-4b44-b5c3-a6e92c4619b0-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/3a7bfae7-70fb-4741-ba4d-4fc609270288-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/3e17b840-71bb-4945-83ee-1822ac13fe43-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/43208873-4d48-4ad5-8704-4655df02e356-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/43ecd358-bbfb-4662-adcc-83d85f723ae7-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/48000531-e4dd-478c-87df-64cc5aa700cc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/49db1999-4f28-4314-be25-0aa25c1d9334-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/4c19d7a5-c62c-4dd7-9973-108c687a85e7-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/4c9fe340-701e-4cb0-8280-6d88128e2479-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/4d4af873-112e-43ba-9724-d6a1b850dd2e-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/4e1fe8f4-3978-42c3-b795-4dceeeb2255c-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/50279966-1d4e-47b7-b6a1-92aecb63d772-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/54f03606-cb72-4c62-a6a4-43ab7d404a34-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/57422684-9174-41de-b76f-c94000151608-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/5c490525-ceae-4309-a8dc-b9bb3595a9d9-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/63346ea3-cd27-4dbf-bd94-e302a7ded1ea-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/63b36379-5086-496e-ace0-d3bbe27fc9f6-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/71d173af-e11f-498e-9e60-743c259d2692-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/740692f4-1fbe-49ac-ae2f-76a4d2da7d51-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/7e92c4a8-403b-4c27-91e2-536b73124e91-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/7e952f03-25ea-4bc5-9579-780bd7844e60-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/973308bb-a0c0-493d-97b2-5681f0a93ac3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/9900f5d3-e772-40fd-abd4-1a4c46f241bd-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/9d0ba6fc-1806-4bf7-8ddc-82c1e365c8a5-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/9ed99db4-fb3a-48c7-8934-8edd16426c7d-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/af46ac94-8b91-4a1f-b4ba-c3dafb175e87-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/b1d403bc-bcd0-4ed8-aa1c-402bfce42859-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/c143ceb2-071f-4fa3-8360-0a5aa1b4fe70-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/d6caa309-d462-43d3-bee9-d69943eb3bbc-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/db80b998-0480-4f44-becf-ffdb7eaac817-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/dcd32839-fc08-4e91-83be-d57124285c3c-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/dedc507b-c491-4fb8-a4e4-018fdd63afca-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/dfad6702-9ebe-45df-bc99-08939e224b49-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/e7754ce7-ae66-4368-8192-2ee60811b7f6-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/e995092a-d099-4931-a64a-f259f04083c8-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/eac5be1f-2540-4241-9fb5-aedc30c30cf9-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/f56775b8-c42d-41ae-91b0-f939ee1cc25e-attachment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/fa8261db-1c25-4cbe-a2a0-8b51979c20ba-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/allure-results/fd04361b-890a-4225-8b68-9543e449ab09-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/02_mobile_entered.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/02_mobile_entered.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/03_otp_screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/03_otp_screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/04_after_login.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/04_after_login.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/05_lab_tests_page.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/05_lab_tests_page.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/06_popular_packages_listing.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/06_popular_packages_listing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/07_filter_top_deals.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/07_filter_top_deals.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/08_filter_mens_health.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/08_filter_mens_health.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/08_sort_low_to_high.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/08_sort_low_to_high.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/09_package_added.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/09_package_added.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/10_cart_popup.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/10_cart_popup.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/11_patient_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/11_patient_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/12_address_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/12_address_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/13_schedule_selected.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/13_schedule_selected.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/14_proceed_to_pay.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/14_proceed_to_pay.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_duplicate_add.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_duplicate_add.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_invalid_category.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_invalid_category.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_invalid_mobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_invalid_mobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_login_failed.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_login_failed.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_no_patient.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/neg_no_patient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_filter_applied.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_filter_applied.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_package_pdp.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_package_pdp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_sorted_high_to_low.png" beforeDir="false" afterPath="$PROJECT_DIR$/Automation Testing Using BDD Behave/reports/screenshots/pos_sorted_high_to_low.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,7 +84,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Automation Testing Using Selenium Pytest" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -21,29 +95,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python tests.Python tests in test_core_navigation.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_e2e_checkout_flow.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_end_to_end.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_login_scenarios.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_popular_health_checkup.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.pytest in test_lab_checkout_complete_flow.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Wipro_Capstone_Project&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JSON&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_core_navigation.py.executor": "Run",
+    "Python tests.Python tests in test_e2e_checkout_flow.py.executor": "Run",
+    "Python tests.Python tests in test_end_to_end.py.executor": "Run",
+    "Python tests.Python tests in test_login_scenarios.py.executor": "Run",
+    "Python tests.Python tests in test_popular_health_checkup.py.executor": "Run",
+    "Python tests.pytest in test_lab_checkout_complete_flow.py.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Wipro_Capstone_Project",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Wipro_Capstone_Project" />
@@ -103,6 +177,7 @@
       <workItem from="1779360061614" duration="5105000" />
       <workItem from="1779422655730" duration="10222000" />
       <workItem from="1779471284037" duration="3146000" />
+      <workItem from="1779541326873" duration="1889000" />
     </task>
     <servers />
   </component>

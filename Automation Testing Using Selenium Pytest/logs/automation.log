@@ -8051,3 +8051,374 @@ Stacktrace:
 05/23/2026 12:25:12 AM: INFO: Executing step: Attempt to click Proceed/Select Slot
 05/23/2026 12:25:14 AM: INFO: Executing step: Verify error or remaining on patient screen
 05/23/2026 12:25:14 AM: INFO: Executing step: Execution Logs
+05/23/2026 06:14:16 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:14:16 PM: INFO: Entering mobile number: 9442173548
+05/23/2026 06:14:17 PM: INFO: Clicking Continue button
+05/23/2026 06:14:17 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:14:17 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:14:32 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:14:33 PM: INFO: Clicking 'Lab Tests' in header
+05/23/2026 06:14:40 PM: INFO: Waiting for 'View All' on Popular Health Checkups
+05/23/2026 06:14:44 PM: INFO: Successfully clicked 'View All' natively
+05/23/2026 06:14:48 PM: INFO: Applying filter: Top Deals
+05/23/2026 06:14:52 PM: INFO: Clicked filter: Top Deals
+05/23/2026 06:14:56 PM: INFO: Applying filter: Men's Health
+05/23/2026 06:15:00 PM: INFO: Clicked filter: Men's Health
+05/23/2026 06:15:04 PM: INFO: Sorting by Price: Low to High
+05/23/2026 06:15:19 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:15:22 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:15:31 PM: INFO: Selecting existing patient: Test User
+05/23/2026 06:15:32 PM: INFO: Patient successfully selected via JS!
+05/23/2026 06:15:34 PM: INFO: Clicking 'Select Slot' after patient selection
+05/23/2026 06:15:36 PM: INFO: Selecting address containing '7A'
+05/23/2026 06:15:41 PM: INFO: Selecting schedule: 22 May 2026 - 06:30 AM
+05/23/2026 06:15:49 PM: INFO: Clicking 'Review Cart' / Proceed
+05/23/2026 06:15:59 PM: INFO: Clicking 'Proceed to Pay'
+05/23/2026 06:16:15 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:16:20 PM: INFO: Executing step: Verify page loaded successfully
+05/23/2026 06:16:20 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:16:20 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:16:36 PM: INFO: Executing step: Apply 'Women's Health' filter
+05/23/2026 06:16:36 PM: INFO: Applying filter: Women's Health
+05/23/2026 06:17:55 PM: WARNING: Filter element not found for 'Women's Health'
+05/23/2026 06:17:58 PM: INFO: Executing step: Verify filter was applied
+05/23/2026 06:17:58 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:17:58 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:18:04 PM: INFO: Executing step: Select 'Price: High to Low' from Sort dropdown
+05/23/2026 06:18:07 PM: INFO: Executing step: Verify sorting interaction
+05/23/2026 06:18:07 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:18:07 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:18:12 PM: INFO: Executing step: Click on a package title
+05/23/2026 06:18:16 PM: INFO: Executing step: Verify Product Description Page (PDP) loaded
+05/23/2026 06:18:16 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:18:16 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:18:24 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:18:26 PM: INFO: Executing step: Enter invalid mobile number (e.g. 12345)
+05/23/2026 06:18:26 PM: INFO: Entering mobile number: 12345
+05/23/2026 06:18:28 PM: INFO: Executing step: Click continue and verify OTP screen does not appear
+05/23/2026 06:18:30 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:18:30 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:18:41 PM: INFO: Executing step: Verify page handles invalid category gracefully
+05/23/2026 06:18:41 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:18:41 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:18:52 PM: INFO: Executing step: Add 'Apollo Full Body Checkup' to cart
+05/23/2026 06:18:52 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:18:57 PM: INFO: Executing step: Close Cart Popup and attempt to add same package again
+05/23/2026 06:19:01 PM: INFO: Executing step: Verify button changed to 'Go To Cart' or 'Added'
+05/23/2026 06:19:01 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:19:01 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:19:15 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:19:18 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:19:27 PM: INFO: Executing step: Ensure no patients are selected
+05/23/2026 06:19:27 PM: INFO: Executing step: Attempt to click Proceed/Select Slot
+05/23/2026 06:19:29 PM: INFO: Executing step: Verify error or remaining on patient screen
+05/23/2026 06:19:29 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:24:32 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:24:32 PM: INFO: Entering mobile number: 9442173548
+05/23/2026 06:24:33 PM: INFO: Clicking Continue button
+05/23/2026 06:24:33 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:24:33 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:24:48 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:24:49 PM: INFO: Clicking 'Lab Tests' in header
+05/23/2026 06:24:58 PM: INFO: Waiting for 'View All' on Popular Health Checkups
+05/23/2026 06:25:02 PM: INFO: Successfully clicked 'View All' natively
+05/23/2026 06:25:06 PM: INFO: Applying filter: Top Deals
+05/23/2026 06:25:10 PM: INFO: Clicked filter: Top Deals
+05/23/2026 06:25:14 PM: INFO: Applying filter: Men's Health
+05/23/2026 06:25:18 PM: INFO: Clicked filter: Men's Health
+05/23/2026 06:25:22 PM: INFO: Sorting by Price: Low to High
+05/23/2026 06:25:37 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:25:41 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:25:49 PM: INFO: Selecting existing patient: Test User
+05/23/2026 06:25:50 PM: INFO: Patient successfully selected via JS!
+05/23/2026 06:25:52 PM: INFO: Clicking 'Select Slot' after patient selection
+05/23/2026 06:25:55 PM: INFO: Selecting address containing '7A'
+05/23/2026 06:25:59 PM: INFO: Selecting schedule: 22 May 2026 - 06:30 AM
+05/23/2026 06:26:07 PM: INFO: Clicking 'Review Cart' / Proceed
+05/23/2026 06:26:17 PM: INFO: Clicking 'Proceed to Pay'
+05/23/2026 06:27:23 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:27:30 PM: INFO: Executing step: Verify page loaded successfully
+05/23/2026 06:27:30 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:27:30 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:27:32 PM: INFO: Executing step: Apply 'Women's Health' filter
+05/23/2026 06:27:32 PM: INFO: Applying filter: Women's Health
+05/23/2026 06:27:34 PM: WARNING: Filter click failed for 'Women's Health': Message: stale element reference: stale element not found in the current frame
+  (Session info: MicrosoftEdge=148.0.3967.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff75d63e305+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff75d63e364+e154]
+	msedgedriver!GetHandleVerifier [0x7ff75d9b8c2a+388a1a]
+	msedgedriver!(No symbol) [0x7ff75d370d93]
+	msedgedriver!(No symbol) [0x7ff75d3731d5]
+	msedgedriver!(No symbol) [0x7ff75d37329f]
+	msedgedriver!(No symbol) [0x7ff75d3afd0c]
+	msedgedriver!(No symbol) [0x7ff75d3d41ba]
+	msedgedriver!(No symbol) [0x7ff75d3aaaa7]
+	msedgedriver!(No symbol) [0x7ff75d3aa9ad]
+	msedgedriver!(No symbol) [0x7ff75d3aaaa7]
+	msedgedriver!(No symbol) [0x7ff75d3ef0b2]
+	msedgedriver!(No symbol) [0x7ff75d3aa2ec]
+	msedgedriver!(No symbol) [0x7ff75d3a9546]
+	msedgedriver!(No symbol) [0x7ff75d3aa113]
+	msedgedriver!(No symbol) [0x7ff75d472519]
+	msedgedriver!(No symbol) [0x7ff75d46ec93]
+	msedgedriver!(No symbol) [0x7ff75d47f182]
+	msedgedriver!GetHandleVerifier [0x7ff75d65aad8+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff75d663366+33156]
+	msedgedriver!GetHandleVerifier [0x7ff75d645794+15584]
+	msedgedriver!GetHandleVerifier [0x7ff75d6458b5+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff75d632bd3+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]
+
+05/23/2026 06:27:34 PM: INFO: Executing step: Verify filter was applied
+05/23/2026 06:27:34 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:27:34 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:27:39 PM: INFO: Executing step: Select 'Price: High to Low' from Sort dropdown
+05/23/2026 06:27:42 PM: INFO: Executing step: Verify sorting interaction
+05/23/2026 06:27:42 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:27:42 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:27:44 PM: INFO: Executing step: Click on a package title
+05/23/2026 06:27:48 PM: INFO: Executing step: Verify Product Description Page (PDP) loaded
+05/23/2026 06:27:48 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:27:48 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:27:51 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:27:53 PM: INFO: Executing step: Enter invalid mobile number (e.g. 12345)
+05/23/2026 06:27:53 PM: INFO: Entering mobile number: 12345
+05/23/2026 06:27:55 PM: INFO: Executing step: Click continue and verify OTP screen does not appear
+05/23/2026 06:27:57 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:27:57 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:28:01 PM: INFO: Executing step: Verify page handles invalid category gracefully
+05/23/2026 06:28:01 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:28:01 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:28:03 PM: INFO: Executing step: Add 'Apollo Full Body Checkup' to cart
+05/23/2026 06:28:03 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:28:09 PM: INFO: Executing step: Close Cart Popup and attempt to add same package again
+05/23/2026 06:28:12 PM: INFO: Executing step: Verify button changed to 'Go To Cart' or 'Added'
+05/23/2026 06:28:12 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:28:12 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:28:20 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:28:23 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:28:31 PM: INFO: Executing step: Ensure no patients are selected
+05/23/2026 06:28:31 PM: INFO: Executing step: Attempt to click Proceed/Select Slot
+05/23/2026 06:28:34 PM: INFO: Executing step: Verify error or remaining on patient screen
+05/23/2026 06:28:34 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:36:15 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:36:16 PM: INFO: Entering mobile number: 9442173548
+05/23/2026 06:36:16 PM: INFO: Clicking Continue button
+05/23/2026 06:36:16 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:36:17 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:36:32 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:36:32 PM: WARNING: Popup dismiss error: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: MicrosoftEdge=148.0.3967.83); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff75d63e305+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff75d63e364+e154]
+	msedgedriver!GetHandleVerifier [0x7ff75d9b8c2a+388a1a]
+	msedgedriver!(No symbol) [0x7ff75d35c5f2]
+	msedgedriver!(No symbol) [0x7ff75d377de3]
+	msedgedriver!(No symbol) [0x7ff75d3d8a71]
+	msedgedriver!(No symbol) [0x7ff75d3ee9bf]
+	msedgedriver!(No symbol) [0x7ff75d3aa2ec]
+	msedgedriver!(No symbol) [0x7ff75d3a9546]
+	msedgedriver!(No symbol) [0x7ff75d3aa113]
+	msedgedriver!(No symbol) [0x7ff75d472519]
+	msedgedriver!(No symbol) [0x7ff75d46ec93]
+	msedgedriver!(No symbol) [0x7ff75d47f182]
+	msedgedriver!GetHandleVerifier [0x7ff75d65aad8+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff75d663366+33156]
+	msedgedriver!GetHandleVerifier [0x7ff75d645794+15584]
+	msedgedriver!GetHandleVerifier [0x7ff75d6458b5+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff75d632bd3+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]
+
+05/23/2026 06:36:35 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:36:37 PM: WARNING: Popup dismiss error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=148.0.3967.83)
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff75d63e305+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff75d63e364+e154]
+	msedgedriver!GetHandleVerifier [0x7ff75d9b8c2a+388a1a]
+	msedgedriver!(No symbol) [0x7ff75d34dadd]
+	msedgedriver!(No symbol) [0x7ff75d3d88cc]
+	msedgedriver!(No symbol) [0x7ff75d3ee9bf]
+	msedgedriver!(No symbol) [0x7ff75d3aa2ec]
+	msedgedriver!(No symbol) [0x7ff75d3a9546]
+	msedgedriver!(No symbol) [0x7ff75d3aa113]
+	msedgedriver!(No symbol) [0x7ff75d472519]
+	msedgedriver!(No symbol) [0x7ff75d46ec93]
+	msedgedriver!(No symbol) [0x7ff75d47f182]
+	msedgedriver!GetHandleVerifier [0x7ff75d65aad8+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff75d663366+33156]
+	msedgedriver!GetHandleVerifier [0x7ff75d645794+15584]
+	msedgedriver!GetHandleVerifier [0x7ff75d6458b5+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff75d632bd3+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]
+
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:36:37 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:37:08 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:37:09 PM: INFO: Entering mobile number: 7092090892
+05/23/2026 06:37:09 PM: INFO: Clicking Continue button
+05/23/2026 06:37:09 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:37:10 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:37:25 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:37:25 PM: INFO: Clicking 'Lab Tests' in header
+05/23/2026 06:37:36 PM: INFO: Waiting for 'View All' on Popular Health Checkups
+05/23/2026 06:37:40 PM: INFO: Successfully clicked 'View All' natively
+05/23/2026 06:37:44 PM: INFO: Applying filter: Top Deals
+05/23/2026 06:37:48 PM: INFO: Clicked filter: Top Deals
+05/23/2026 06:37:52 PM: INFO: Applying filter: Men's Health
+05/23/2026 06:37:56 PM: INFO: Clicked filter: Men's Health
+05/23/2026 06:38:00 PM: INFO: Sorting by Price: Low to High
+05/23/2026 06:38:15 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:38:18 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:38:26 PM: INFO: Selecting existing patient: Test User
+05/23/2026 06:38:27 PM: INFO: Patient successfully selected via JS!
+05/23/2026 06:38:29 PM: INFO: Clicking 'Select Slot' after patient selection
+05/23/2026 06:38:32 PM: INFO: Selecting address containing '7A'
+05/23/2026 06:38:37 PM: INFO: Selecting schedule: 22 May 2026 - 06:30 AM
+05/23/2026 06:38:45 PM: INFO: Clicking 'Review Cart' / Proceed
+05/23/2026 06:38:55 PM: INFO: Clicking 'Proceed to Pay'
+05/23/2026 06:39:07 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:39:12 PM: INFO: Executing step: Verify page loaded successfully
+05/23/2026 06:39:12 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:39:12 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:39:14 PM: INFO: Executing step: Apply 'Women's Health' filter
+05/23/2026 06:39:14 PM: INFO: Applying filter: Women's Health
+05/23/2026 06:40:25 PM: WARNING: Filter element not found for 'Women's Health'
+05/23/2026 06:40:28 PM: INFO: Executing step: Verify filter was applied
+05/23/2026 06:40:28 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:40:28 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:40:31 PM: INFO: Executing step: Select 'Price: High to Low' from Sort dropdown
+05/23/2026 06:40:34 PM: INFO: Executing step: Verify sorting interaction
+05/23/2026 06:40:34 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:40:34 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:40:38 PM: INFO: Executing step: Click on a package title
+05/23/2026 06:40:43 PM: INFO: Executing step: Verify Product Description Page (PDP) loaded
+05/23/2026 06:40:43 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:40:43 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:40:47 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:40:49 PM: INFO: Executing step: Enter invalid mobile number (e.g. 12345)
+05/23/2026 06:40:49 PM: INFO: Entering mobile number: 12345
+05/23/2026 06:40:50 PM: INFO: Executing step: Click continue and verify OTP screen does not appear
+05/23/2026 06:40:53 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:40:53 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:40:57 PM: INFO: Executing step: Verify page handles invalid category gracefully
+05/23/2026 06:40:57 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:40:57 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:40:58 PM: INFO: Executing step: Add 'Apollo Full Body Checkup' to cart
+05/23/2026 06:40:58 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:41:04 PM: INFO: Executing step: Close Cart Popup and attempt to add same package again
+05/23/2026 06:41:07 PM: INFO: Executing step: Verify button changed to 'Go To Cart' or 'Added'
+05/23/2026 06:41:07 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:41:07 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:41:13 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:41:16 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:41:24 PM: INFO: Executing step: Ensure no patients are selected
+05/23/2026 06:41:25 PM: INFO: Executing step: Attempt to click Proceed/Select Slot
+05/23/2026 06:41:27 PM: INFO: Executing step: Verify error or remaining on patient screen
+05/23/2026 06:41:27 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:45:16 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:45:17 PM: WARNING: Popup dismiss error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=148.0.3967.83)
+Stacktrace:
+	msedgedriver!GetHandleVerifier [0x7ff75d63e305+e0f5]
+	msedgedriver!GetHandleVerifier [0x7ff75d63e364+e154]
+	msedgedriver!GetHandleVerifier [0x7ff75d9b8c2a+388a1a]
+	msedgedriver!(No symbol) [0x7ff75d34dadd]
+	msedgedriver!(No symbol) [0x7ff75d3d88cc]
+	msedgedriver!(No symbol) [0x7ff75d3ee9bf]
+	msedgedriver!(No symbol) [0x7ff75d3aa2ec]
+	msedgedriver!(No symbol) [0x7ff75d3a9546]
+	msedgedriver!(No symbol) [0x7ff75d3aa113]
+	msedgedriver!(No symbol) [0x7ff75d472519]
+	msedgedriver!(No symbol) [0x7ff75d46ec93]
+	msedgedriver!(No symbol) [0x7ff75d47f182]
+	msedgedriver!GetHandleVerifier [0x7ff75d65aad8+2a8c8]
+	msedgedriver!GetHandleVerifier [0x7ff75d663366+33156]
+	msedgedriver!GetHandleVerifier [0x7ff75d645794+15584]
+	msedgedriver!GetHandleVerifier [0x7ff75d6458b5+156a5]
+	msedgedriver!GetHandleVerifier [0x7ff75d632bd3+29c3]
+	KERNEL32!BaseThreadInitThunk [0x7ff852a8e957+17]
+	ntdll!RtlUserThreadStart [0x7ff852d8427c+2c]
+
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:45:18 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:45:45 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:45:45 PM: INFO: Entering mobile number: 7092090892
+05/23/2026 06:45:46 PM: INFO: Clicking Continue button
+05/23/2026 06:45:46 PM: INFO: Continue clicked. Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:45:46 PM: INFO: Waiting 15 seconds for manual OTP entry...
+05/23/2026 06:46:01 PM: INFO: OTP wait complete. Proceeding to next step.
+05/23/2026 06:46:02 PM: INFO: Clicking 'Lab Tests' in header
+05/23/2026 06:46:06 PM: INFO: Waiting for 'View All' on Popular Health Checkups
+05/23/2026 06:46:10 PM: INFO: Successfully clicked 'View All' natively
+05/23/2026 06:46:14 PM: INFO: Applying filter: Top Deals
+05/23/2026 06:46:18 PM: INFO: Clicked filter: Top Deals
+05/23/2026 06:46:22 PM: INFO: Applying filter: Men's Health
+05/23/2026 06:46:26 PM: INFO: Clicked filter: Men's Health
+05/23/2026 06:46:30 PM: INFO: Sorting by Price: Low to High
+05/23/2026 06:46:45 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:46:49 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:46:57 PM: INFO: Selecting existing patient: Test User
+05/23/2026 06:46:58 PM: INFO: Patient successfully selected via JS!
+05/23/2026 06:47:00 PM: INFO: Clicking 'Select Slot' after patient selection
+05/23/2026 06:47:02 PM: INFO: Selecting address containing '7A'
+05/23/2026 06:47:07 PM: INFO: Selecting schedule: 22 May 2026 - 06:30 AM
+05/23/2026 06:47:15 PM: INFO: Clicking 'Review Cart' / Proceed
+05/23/2026 06:47:25 PM: INFO: Clicking 'Proceed to Pay'
+05/23/2026 06:47:36 PM: INFO: Executing step: Navigate directly to Popular Health Checkups
+05/23/2026 06:47:42 PM: INFO: Executing step: Verify page loaded successfully
+05/23/2026 06:47:42 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:47:42 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:47:44 PM: INFO: Executing step: Apply 'Women's Health' filter
+05/23/2026 06:47:44 PM: INFO: Applying filter: Women's Health
+05/23/2026 06:48:58 PM: WARNING: Filter element not found for 'Women's Health'
+05/23/2026 06:49:02 PM: INFO: Executing step: Verify filter was applied
+05/23/2026 06:49:02 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:02 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:49:05 PM: INFO: Executing step: Select 'Price: High to Low' from Sort dropdown
+05/23/2026 06:49:08 PM: INFO: Executing step: Verify sorting interaction
+05/23/2026 06:49:08 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:08 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:49:10 PM: INFO: Executing step: Click on a package title
+05/23/2026 06:49:14 PM: INFO: Executing step: Verify Product Description Page (PDP) loaded
+05/23/2026 06:49:14 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:14 PM: INFO: Executing step: Navigate to Homepage and open Login
+05/23/2026 06:49:22 PM: INFO: Clicking login/sign-in icon immediately via JS
+05/23/2026 06:49:24 PM: INFO: Executing step: Enter invalid mobile number (e.g. 12345)
+05/23/2026 06:49:24 PM: INFO: Entering mobile number: 12345
+05/23/2026 06:49:26 PM: INFO: Executing step: Click continue and verify OTP screen does not appear
+05/23/2026 06:49:28 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:28 PM: INFO: Executing step: Navigate to Popular Health Checkups with Bogus Category
+05/23/2026 06:49:33 PM: INFO: Executing step: Verify page handles invalid category gracefully
+05/23/2026 06:49:33 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:33 PM: INFO: Executing step: Navigate to Popular Health Checkups
+05/23/2026 06:49:40 PM: INFO: Executing step: Add 'Apollo Full Body Checkup' to cart
+05/23/2026 06:49:40 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:49:45 PM: INFO: Executing step: Close Cart Popup and attempt to add same package again
+05/23/2026 06:49:48 PM: INFO: Executing step: Verify button changed to 'Go To Cart' or 'Added'
+05/23/2026 06:49:48 PM: INFO: Executing step: Execution Logs
+05/23/2026 06:49:48 PM: INFO: Executing step: Navigate to Popular Health Checkups and add package
+05/23/2026 06:49:51 PM: INFO: Adding 'Apollo Full Body Checkup' to cart
+05/23/2026 06:49:54 PM: INFO: Clicking 'Proceed To Cart' on popup
+05/23/2026 06:50:03 PM: INFO: Executing step: Ensure no patients are selected
+05/23/2026 06:50:03 PM: INFO: Executing step: Attempt to click Proceed/Select Slot
+05/23/2026 06:50:05 PM: INFO: Executing step: Verify error or remaining on patient screen
+05/23/2026 06:50:05 PM: INFO: Executing step: Execution Logs

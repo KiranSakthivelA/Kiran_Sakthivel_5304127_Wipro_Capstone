@@ -1,0 +1,4 @@
+2026-05-23 19:00:29,735: INFO: Clicking 'Review Cart' / Proceed
+2026-05-23 19:00:42,819: INFO: Found Review Cart button: Review Cart
+2026-05-23 19:00:49,689: INFO: Clicking 'Proceed to Pay'
+2026-05-23 19:00:50,110: INFO: Found Proceed to Pay button: Proceed to Pay - ₹3490.00

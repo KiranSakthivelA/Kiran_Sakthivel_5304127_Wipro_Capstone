@@ -1,0 +1,2 @@
+2026-05-23 18:59:36,350: INFO: Applying filter: Men's Health
+2026-05-23 18:59:40,541: INFO: Clicked filter: Men's Health

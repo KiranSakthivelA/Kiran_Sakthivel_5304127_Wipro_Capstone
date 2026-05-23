@@ -1,0 +1,3 @@
+2026-05-23 19:00:11,050: INFO: Selecting existing patient: Test User
+2026-05-23 19:00:12,074: INFO: Patient successfully selected via JS!
+2026-05-23 19:00:14,083: INFO: Clicking 'Select Slot' after patient selection

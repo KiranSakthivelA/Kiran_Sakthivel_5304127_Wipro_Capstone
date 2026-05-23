@@ -1,0 +1,2 @@
+2026-05-23 18:59:28,400: INFO: Applying filter: Top Deals
+2026-05-23 18:59:32,580: INFO: Clicked filter: Top Deals
